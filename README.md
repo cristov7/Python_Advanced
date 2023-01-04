@@ -27,4 +27,4 @@ Online judge system - https://judge.softuni.org/
 # Additional resources
 - Python Advanced
 
-https://softuni.bg/trainings/3963/python-advanced-january-2023#lesson-49386
+https://softuni.bg/trainings/3963/python-advanced-january-2023
