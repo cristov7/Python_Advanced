@@ -1,6 +1,6 @@
 # SoftUni - Python Advanced - January 2023
 
-In this repository there are solutions to tasks from the programming Advanced course with Python of the software academy of SoftUni University.
+In this repository there are solutions to tasks from the Programming Advanced course with Python of the software academy of SoftUni University.
 
 https://softuni.bg/trainings/3963/python-advanced-january-2023
 
