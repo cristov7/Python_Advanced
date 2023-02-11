@@ -1,6 +1,31 @@
 from module import create_sequence_function, locate_function
 
 
+# def create_sequence_function(count_numbers: int):
+#     numbers_list = []
+#     for count_number in range(1, count_numbers + 1):
+#         if count_number == 1:
+#             current_number = 0
+#             numbers_list.append(current_number)
+#         elif count_number == 2:
+#             current_number = 1
+#             numbers_list.append(current_number)
+#         else:
+#             last_number = numbers_list[-1]
+#             pre_last_number = numbers_list[-2]
+#             current_number = last_number + pre_last_number
+#             numbers_list.append(current_number)
+#     return numbers_list
+
+
+# def locate_function(search_number: int, numbers_list: list):
+#     if search_number in numbers_list:
+#         index = numbers_list.index(search_number)
+#         return f"The number - {search_number} is at index {index}"
+#     else:
+#         return f"The number {search_number} is not in the sequence"
+
+
 def fibonacci_function():
     fibonacci_list = []
     while True:
