@@ -24,7 +24,12 @@ Online judge system - https://judge.softuni.org/
 - Retake Exam
 
 
-# Additional resources
+# Additional resources:
 - Python Advanced
 
 https://softuni.bg/trainings/3963/python-advanced-january-2023
+
+
+# Certificate of Programming Advanced with Python:
+
+![Python Advanced](https://user-images.githubusercontent.com/114032977/231402215-0c6678cf-9935-4dbc-bf66-10b99efa4681.png)
